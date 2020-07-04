@@ -2270,7 +2270,7 @@ class State {
                 screen.blitRow(x, drawStart + 4, tex, texX / 4 + 32 * (Math.floor(timeOffset) % 4), lineHeight)
             }else{
                 if(color > 15 && color < 18){
-                    screen.blitRow(x, Math.floor(drawStart + 4), tex, Math.floor(texX / 4 + ((32 * mapOffset + timeOffset) % 128)), lineHeight)
+                    screen.blitRow(x, Math.floor(drawStart + 4), tex, Math.floor(texX / 4 + ((32 * mapOffset + timeOffset))) % 128, lineHeight)
                 }else{
                     screen.blitRow(x, drawStart + 4, tex, texX / 4 + 32 * (mapOffset % 4), lineHeight)
                 }
