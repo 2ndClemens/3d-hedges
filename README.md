@@ -8,22 +8,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/2ndclemens/arcadearena** and import
+* search for **https://github.com/2ndclemens/3d-hedges** and import
 
-## Edit this project ![Build status badge](https://github.com/2ndclemens/arcadearena/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/2ndclemens/3d-hedges/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/2ndclemens/arcadearena** and click import
+* paste **https://github.com/2ndclemens/3d-hedges** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/2ndclemens/arcadearena/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/2ndclemens/3d-hedges/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
@@ -32,7 +32,7 @@ This image may take a few minutes to refresh.
 
 
 
-> Diese Seite bei [https://2ndclemens.github.io/arcade-3d-map/](https://2ndclemens.github.io/arcade-3d-map/) öffnen
+> Diese Seite bei [https://2ndclemens.github.io/3d-hedges/](https://2ndclemens.github.io/3d-hedges/) öffnen
 
 ## Als Erweiterung verwenden
 
@@ -49,7 +49,7 @@ Um dieses Repository in MakeCode zu bearbeiten.
 
 * öffne [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/2ndclemens/arcade-3d-map** ein und klicke auf Importieren
+* füge **https://github.com/2ndclemens/3d-hedges** ein und klicke auf Importieren
 
 ## Blockvorschau
 
